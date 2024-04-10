@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+    list-style-type: none;
+    text-decoration: none;
+}
+li{
+    font-size: 30px;
+}
+ul{
+    list-style-type: none;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
