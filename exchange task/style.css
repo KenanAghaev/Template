@@ -1,0 +1,13 @@
+#btn{
+    cursor: pointer;
+    background-color: rebeccapurple;
+    color: rgb(238, 225, 210);
+    border-radius: 4px;
+    border: none;
+    padding: 5px;
+}
+select{
+    background-color: rebeccapurple;
+    color: antiquewhite;
+    cursor: pointer;
+}
