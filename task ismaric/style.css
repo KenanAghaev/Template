@@ -1,0 +1,36 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#main{
+    position: relative;
+    background-color: aquamarine;
+    height: 750px;
+}
+#btn{
+    display: inline-block;
+    position: absolute;
+    left: 45%;
+    top: 45%;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 0px;
+    border: none;
+}
+#message{
+    position: absolute;
+    right: 5px;
+    bottom: 0;
+}
+.ismaric{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(224, 219, 219);
+    margin-bottom: 5px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 2px;
+}
